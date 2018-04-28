@@ -1,4 +1,7 @@
 # Race Sentinel
+Edited version with watchdog_expired fix from https://bitcointalk.org/index.php?topic=2677966.0 
+
+
 <p align="center">
 <a href="https://travis-ci.org/racecrypto/sentinel" alt="Build Status">
 <img src="https://travis-ci.org/racecrypto/sentinel.svg?branch=master"/>
